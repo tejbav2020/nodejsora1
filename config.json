@@ -1,0 +1,8 @@
+{
+    "oracle": {
+        "user": "admin",
+        "password": "Scriptlanes1212",
+        "connectString": "bankstatement12-2c.ctsl1hdhfd4i.ap-south-1.rds.amazonaws.com/ORCL",
+        "port": 1521
+    }
+}
